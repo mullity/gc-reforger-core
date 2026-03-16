@@ -1,0 +1,12 @@
+Projectile : "{EEF8495A9A6787A6}Prefabs/Weapons/Core/Ammo_MortarShell_Base.et" {
+ ID "5098E3DEA78F878B"
+ components {
+  CollisionTriggerComponent "{60AC9441243E3504}" {
+   PROJECTILE_EFFECTS {
+    ExplosionEffect "{66448E9CBD7626AB}" {
+     EffectPrefab "{A1346A47CEDE2963}Prefabs/Weapons/Warheads/Warhead_Shell_HE_120MM_test.et"
+    }
+   }
+  }
+ }
+}
