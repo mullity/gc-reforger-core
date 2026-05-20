@@ -1,5 +1,5 @@
 MetaFileClass {
- Name "{9DECCA625D345B35}UI/Lobby/CoopLobby.layout"
+ Name "{AC73DC5AE6BEF564}UI/layouts/Map/GC_Markers.layout"
  Configurations {
   LayoutResourceClass PC {
   }
@@ -12,8 +12,6 @@ MetaFileClass {
   LayoutResourceClass PS5 : PC {
   }
   LayoutResourceClass HEADLESS : PC {
-  }
-  LayoutResourceClass Xbox : PC {
   }
  }
 }
